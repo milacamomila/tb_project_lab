@@ -1,3 +1,4 @@
+Inserted text
 This is a different line
 This is another different line
 This is yet another different line
